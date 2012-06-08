@@ -1,0 +1,183 @@
+BODY
+{
+    BACKGROUND-COLOR: #eeeeee;
+    COLOR: #000000;
+    FONT: 10pt Arial
+}
+H1
+{
+    COLOR: #000066;
+    FONT: bold 16pt Arial
+}
+H2
+{
+    COLOR: #000066;
+    FONT: bold 12pt Arial
+}
+H3
+{
+    COLOR: #000066;
+    FONT: bold 10pt Arial
+}
+P
+{
+    COLOR: #000000;
+    FONT: 10pt Arial
+}
+UL
+{
+    COLOR: #000000;
+    FONT: 10pt Arial
+}
+LI
+{
+    COLOR: #000000;
+    FONT: 10pt Arial
+}
+TH
+{
+    BACKGROUND-COLOR: #000066;
+    COLOR: #ffffff;
+    FONT: bold 10pt Arial
+}
+TD
+{
+    COLOR: #000000;
+    FONT: 10pt Arial
+}
+INPUT
+{
+    COLOR: #000000;
+    FONT: 10pt Arial
+}
+SELECT
+{
+    COLOR: #000000;
+    FONT: 10pt Arial
+}
+OPTION
+{
+    COLOR: #000000;
+    FONT: 10pt Arial
+}
+TEXTAREA
+{
+    COLOR: #000000;
+    FONT: 10pt Arial
+}
+.heading
+{
+    BACKGROUND-COLOR: #CC0000;
+    COLOR: #ffffff;
+    FONT: bold 10pt Arial
+}
+.normal
+{
+    COLOR: #000000;
+    FONT: 10pt Arial
+}
+.inputlabel
+{
+    COLOR: #000055;
+    FONT: bold 10pt Arial
+}
+.inputlabelblue
+{
+    COLOR: #000080;
+    FONT: bold 10pt Arial
+}
+.warning
+{
+    BACKGROUND-COLOR: #ffff00;
+    COLOR: #000000;
+    FONT: 10pt Arial
+}
+.huge
+{
+    COLOR: #800000;
+    FONT: bold 48pt Arial
+}
+.big
+{
+    COLOR: #800000;
+    FONT: bold 14pt Arial
+}
+.bold
+{
+    COLOR: #000000;
+    FONT: bold 10pt Arial
+}
+.normalbody
+{
+    BACKGROUND-COLOR: #FFFFFF;
+    COLOR: #000000;
+    FONT: bold 10pt Arial
+}
+.darkbody
+{
+    BACKGROUND-COLOR: #CC0000;
+    COLOR: #ffffff;
+    FONT: bold 10pt Arial
+}
+.appsfont
+{
+    COLOR: #ffffff;
+    FONT: bold 10pt Arial
+}
+.list
+{
+    TEXT-INDENT: 40px
+}
+.important
+{
+    COLOR: #0000ff;
+    FONT: bold 10pt Arial
+}
+.headline
+{
+    COLOR: #CC0000
+}
+.inputlabelgreen
+{
+    COLOR: seagreen;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 10pt;
+    FONT-STYLE: normal;
+    FONT-VARIANT: normal;
+    FONT-WEIGHT: bold
+}
+.inputlabelred
+{
+    COLOR: red;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 10pt;
+    FONT-STYLE: normal;
+    FONT-VARIANT: normal;
+    FONT-WEIGHT: bold
+}
+TR.togglered
+{
+    BACKGROUND-COLOR: pink
+}
+TR.toggleon
+{
+    BACKGROUND-COLOR: #e5e5f6
+}
+TR.togglegreen
+{
+    BACKGROUND-COLOR: springgreen
+}
+TR.toggleblue
+{
+    BACKGROUND-COLOR: deepskyblue
+}
+A:link
+{
+    COLOR: black;
+    FONT-FAMILY: Arial
+}
+A:visited
+{
+    COLOR: red;
+    FONT-FAMILY: Arial
+}

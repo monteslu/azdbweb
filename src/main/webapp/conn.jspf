@@ -1,0 +1,14 @@
+<%@ page import="com.azprogrammer.db.*" %><%@ page import="java.sql.*" %><%
+
+
+	Connection con = null;
+	DBUtil.traceOn();
+	if((session.getAttribute("CONNECTION") == null) || ((Connection)session.getAttribute("CONNECTION")).isClosed()){
+
+                response.sendRedirect("setupCon.jsp");
+	}
+	else{
+		con = (Connection) session.getAttribute("CONNECTION");
+	}
+
+%>
